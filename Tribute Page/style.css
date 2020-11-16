@@ -1,0 +1,47 @@
+#img-div {
+  position: center;
+  background: #b4b4b4;
+  width: 900px;
+  margin-left: 220px;
+}
+
+#tribute-info {
+    width: 900px;
+    position: center;
+    margin-left: 220px;
+}
+
+#image {
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+  }
+  
+body {
+  background: #e2e2df;
+  background: #d2d2cf;
+}
+
+h1,
+p,
+h3 {
+  color: black;
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom: 35px;
+  font-family: "Lato", sans-serif;
+}
+
+li {
+  color: black;
+  font-family: "Lato", sans-serif;
+  margin-bottom: 25px;
+}
+
+figcaption {
+  margin-top: 25px;
+  text-align: center;
+}
+
