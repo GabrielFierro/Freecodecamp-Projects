@@ -9,7 +9,7 @@ You can follow the next link for more information: [Responsive Web Design Projec
 
 ## Projects
 
-In this section you get the chance to Fulfill the below [user stories](https://en.wikipedia.org/wiki/User_story) and get all of the tests to pass. Give it your own personal style. You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS.
+In this section you get the chance to fulfill the below [user stories](https://en.wikipedia.org/wiki/User_story) and get all of the tests to pass. Give it your own personal style. You can use HTML, JavaScript, and CSS to complete this project. Plain CSS is recommended because that is what the lessons have covered so far and you should get some practice with plain CSS.
 Also, you have nine User Story rules that you must comply.
 
 - Build a Tribute Page: 
