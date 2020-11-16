@@ -3,8 +3,8 @@
 
 ## Introduction
 
-Responsive Web Design Projects it is an initiative from Freecodecamp, in the end of the course the student can use all its knowledgment about HTML, CSS, Visual Design, etc, for to create five diferent projects.
-You can follow the next link: [Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/)
+Responsive Web Design Projects it is an initiative from Freecodecamp, in the end of the course the student can use all its knowledgment about HTML, CSS, Visual Design, etc, for creating five different projects.
+You can follow the next link for more information: [Responsive Web Design Projects](https://www.freecodecamp.org/learn/responsive-web-design/responsive-web-design-projects/)
 
 
 ## Projects
