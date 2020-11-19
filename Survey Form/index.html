@@ -65,7 +65,7 @@
 
         <label>Would you recommend this to a friend?</label>
         <br />
-        <input type="radio" id="yes" value="yes" name="recommendation" />
+        <input type="radio" id="yes" value="yes" name="recommendation" required />
         <label for="yes">Yes</label>
         <br />
         <input type="radio" id="no" value="no" name="recommendation" />
@@ -102,6 +102,7 @@
         <label class="space"
           >Select all the technologies that you want to learn</label
         ><br />
+        <br />
         <input type="checkbox" value="html" name="html" />
         <label for="html">HTML</label> <br />
         <input type="checkbox" value="css" name="css" />
@@ -114,7 +115,8 @@
         <label for="php">PHP</label><br />
         <input type="checkbox" value="java" name="java" />
         <label for="java">Java</label><br />
-
+        <input type="checkbox" value="none" name="none" />
+        <label for="none">None</label><br />
         <!-- End of the technologies selection -->
 
         <br />
