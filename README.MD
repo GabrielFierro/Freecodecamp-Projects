@@ -16,10 +16,14 @@ Also, you have nine User Story rules that you must comply.
 
 **Objective**: Build a [CodePen.io](https://codepen.io/) app that is functionally similar to this: [Tribute page](https://codepen.io/freeCodeCamp/full/zNqgVx).
 
+You can see my solution at this link: [Tribute Page - Gabriel Fierro](https://codepen.io/F__Gabriel/pen/QWEVoJr)
+
 
 - Build a Survey Form: 
 
 **Objective**: Build a [CodePen.io](https://codepen.io/) app that is functionally similar to this: [Survey Form](https://codepen.io/freeCodeCamp/full/VPaoNP).
+
+You can see my solution at this link: [Survey Form - Gabriel Fierro](https://codepen.io/F__Gabriel/pen/pobYvLd)
 
 
 - Build a Product Landing Page:
@@ -30,6 +34,7 @@ Also, you have nine User Story rules that you must comply.
 - Build a Technical Documentation Page:
 
 **Objective**: Build a [CodePen.io](https://codepen.io/) app that is functionally similar to this: [Technical Documentation Page](https://codepen.io/freeCodeCamp/full/NdrKKL).
+
 
 
 - Build a Personal Portfolio Webpage:
