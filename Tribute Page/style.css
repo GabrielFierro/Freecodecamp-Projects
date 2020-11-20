@@ -1,6 +1,25 @@
+.button{
+  background-color: #fcbf49;
+  border: 2px solid #f77f00;
+  border-radius: 5px;
+  height: 40px;
+  width: 80px;
+  font-size: 18px;
+  box-shadow: 3px 3px #f4a261;
+}
+
+.container{
+  height: 64px;
+  width: 64px;
+  margin: auto;
+  left: 50%;
+  right: 50%;
+  max-width: 25%;
+}
+
 #img-div {
   position: center;
-  background: #b4b4b4;
+  background: #ddbea9;
   width: 900px;
   margin-left: 220px;
 }
@@ -20,8 +39,7 @@
   }
   
 body {
-  background: #e2e2df;
-  background: #d2d2cf;
+  background-color: #eddcd2;
 }
 
 h1,
